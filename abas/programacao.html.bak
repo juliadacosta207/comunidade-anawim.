@@ -1,0 +1,63 @@
+<html>
+<head>
+     <title>Nosso site</title>
+</html>
+</head>
+
+<style>
+      body{
+      background: #6495ED;
+	  color:white
+      }
+
+	       body{
+		       margin: 0;
+			
+			}
+			
+			#menu ul{
+			      margin: 0;
+				  background-color:#ffffff;
+			     list-style:none;
+			}
+			
+			#menu ul li{
+			display:inline;
+			
+			}
+			
+			#menu ul  li a{
+			padding:90px 90px;
+			display:online-block;
+			
+			color:#6495ED;
+			text-decoration: none;
+			}
+			
+			
+</style>
+<body>
+<div id ="menu">
+	     <ul>
+		 <li>
+		    <li><a href = "../index.html">Inicio</a></li>
+		    <li><a href = "programacao.html">Programação</a></li>
+			<li><a href = "historia.html">Sobre</a></li>
+			<li><a href = "contato.html">Contato</a></li>
+			<li><a href = "redessociais">Redes Sociais</a></li>
+			
+	     </ul>
+	</div>
+</body>
+ 
+<div class="container">
+    <center><img src="capa.png" width="2500" height="300" /></center>
+</div>
+
+
+	  <center><p><font face="Verdana"><h1>Programação Mês de Dezembro</h1>
+      </font></p></center>
+	 
+	<center><IMG SRC="missa.jpeg"width="450" height="450" /><IMG SRC="votos.jpeg"width="450" height="450"/><IMG SRC="natal.jpeg"width="430" height="450"/></center>
+	
+	

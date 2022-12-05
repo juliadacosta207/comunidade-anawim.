@@ -1,0 +1,83 @@
+
+<html>
+<head>
+     <title>Menu HTML+CSS</title>
+	 <style>
+	 body{
+      background: #6495ED;
+	  color:white
+      }
+	       body{
+		       margin: 0;
+			
+			}
+			
+			#menu ul{
+			      margin: 0;
+				  background-color:#ffffff;
+			     list-style:none;
+			}
+			
+			#menu ul li{
+			display:inline;
+			
+			}
+			
+			#menu ul  li a{
+			padding:90px 90px;
+			display:online-block;
+			
+			color:#6495ED;
+			text-decoration: none;
+			}
+			body{
+      background: #6495ED;
+	  }
+			
+			
+			
+	 </style>
+
+</head>
+
+<body>
+     <div id ="menu">
+	     <ul>
+		 <li>
+		 <li><a href = "../index.html">Inicio</a></li>
+		    <li><a href = "programacao.html">Programação</a></li>
+			<li><a href = "historia.html">Sobre</a></li>
+			<li><a href = "contato.html">Contato</a></li>
+			<li><a href = "redessociais">Redes Sociais</a></li>
+			
+	     </ul>
+	</div>
+</body>
+
+
+
+ 
+<div class="container">
+    <center><img src="capa.png" width="2500" height="300" /></center>
+</div>
+
+<center><p><font face="Verdana"><h1>Redes Socias</h1>
+      </font></p></center>
+	  
+	 <center><p><font face="Verdana"><h2>Clique em cima da imagem, Você será direcionado á página</h2>
+      </font></p></center>
+	  
+
+	  <body>
+	  
+	
+	  <center>
+	  <a href="https://www.instagram.com/comunidadeanawim/">    
+	  <center><IMG SRC="insta.png" width="300" height="300"/></center>
+	  </a>
+	  <center> <a href="https://pt-br.facebook.com/comuanawim/">
+	  <center> <IMG SRC="741.png" width="300" height="300"/></center>
+	  </a>
+	  
+	  </body>
+	  </html

@@ -1,0 +1,80 @@
+
+<html>
+<head>
+     <title>Menu HTML+CSS</title>
+	 <style>
+	       body{
+		       margin: 0;
+			
+			}
+			
+			#menu ul{
+			      margin: 0;
+				  background-color:#ffffff;
+			     list-style:none;
+			}
+			
+			#menu ul li{
+			display:inline;
+			
+			}
+			
+			#menu ul  li a{
+			padding:90px 90px;
+			display:online-block;
+			
+			color:#6495ED;
+			text-decoration: none;
+			}
+			
+			
+			
+	 </style>
+</html>
+</head>
+
+<body>
+     <div id ="menu">
+	     <ul>
+		 <li>
+		    <li><a href = " file:///F:/Site/pagina.html">Inicio</a></li>
+		    <li><a href = "file:///F:/Site/index.html">Programação</a></li>
+			<li><a href = "file:///F:/Site/historia.html">Sobre</a></li>
+			<li><a href = "file:///F:/Site/Informa%C3%A7%C3%B5es%20de%20Contato.html">Contato</a></li>
+			<li><a href = "file:///J:/Mariana,Julia,Claudia%20e%20Marcelo%201%C2%B0C/Redes%20Sociais.html">Redes Sociais</a></li>
+			
+	     </ul>
+	</div>
+</body>
+
+
+
+<style>
+body{
+      background: #6495ED;
+</style>
+<html>
+<head>
+     <title>Nosso site</title>
+</html>
+</head>
+
+<style>
+      body{
+      background: #6495ED;
+	  color:white
+      }
+</style>
+</body>
+ 
+<div class="container">
+    <center><img src="capa.png" width="2500" height="300" /></center>
+</div>
+
+
+	  <center><p><font face="Verdana"><h1>Programação Mês de Dezembro</h1>
+      </font></p></center>
+	 
+	<IMG SRC="missa.jpeg"width="450" height="450" /><IMG SRC="votos.jpeg"width="450" height="450"/><IMG SRC="natal.jpeg"width="430" height="450"/>
+	
+	
